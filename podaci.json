@@ -1,0 +1,86 @@
+{
+  "odjeca": [
+    {
+      "odjevniPredmet": {
+        "vrsta": "potkosulja",
+        "boja": "#ffea00",
+        "velicina": "L"
+      },
+      "datumKupnje": {
+        "datum": "2023-04-14"
+      },
+      "id": 5
+    },
+    {
+      "odjevniPredmet": {
+        "vrsta": "suknja",
+        "boja": "#00ff1e",
+        "velicina": "M"
+      },
+      "datumKupnje": {
+        "datum": "2023-04-06"
+      },
+      "id": 14
+    },
+    {
+      "odjevniPredmet": {
+        "vrsta": "kaput",
+        "boja": "#3700ff",
+        "velicina": "S"
+      },
+      "datumKupnje": {
+        "datum": "2023-04-13"
+      },
+      "id": 16
+    },
+    {
+      "odjevniPredmet": {
+        "vrsta": "hlace",
+        "boja": "#ff0000",
+        "velicina": "XS"
+      },
+      "datumKupnje": {
+        "datum": "2023-04-06"
+      },
+      "id": 18
+    },
+    {
+      "odjevniPredmet": {
+        "vrsta": "majica",
+        "boja": "#ffffff",
+        "velicina": "XXS"
+      },
+      "datumKupnje": {
+        "datum": "2023-03-03"
+      },
+      "id": 19
+    },
+    {
+      "odjevniPredmet": {
+        "vrsta": "kaput",
+        "boja": "",
+        "velicina": "XS"
+      },
+      "datumKupnje": {
+        "datum": "2023-04-27"
+      },
+      "id": 20
+    }
+  ],
+  "vrsta": [
+    "majica",
+    "hlace",
+    "kaput",
+    "suknja",
+    "potkosulja"
+  ],
+  "velicina": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ]
+}
